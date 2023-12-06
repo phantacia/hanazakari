@@ -39,7 +39,7 @@ const Contact = () => {
       >
         {(props) => (
           <Form className="w-full flex flex-col justify-between gap-5">
-            <div className="w-full justify-between flex flex-row gap-5">
+            <div className="w-full justify-center flex flex-row gap-5">
               <div className="w-1/2">
                 <label className="text-md" htmlFor="firstName">
                   First Name <span className="text-xs">(required)</span>

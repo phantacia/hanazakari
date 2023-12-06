@@ -6,13 +6,13 @@ const lato = Lato({ subsets: ["latin"], weight: "900" });
 
 const Matsuri = () => {
   return (
-    <div className="bg-matsuri w-full min-h-screen flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
+    <div className="bg-matsuri w-full justify-center flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
       <Image
         src="/matsuri.webp"
         alt="Matsuri Sparkling Sake"
-        width={350}
-        height={350}
-        className="w-full mb-8 md:mr-64"
+        width={200}
+        height={200}
+        className="w-full md:w-1/2 lg:w-1/3 mb-8 md:mr-48"
       />
       <div className="flex flex-col">
         <h2 className={`text-2xl md:text-4xl ${lato.className} mb-10`}>

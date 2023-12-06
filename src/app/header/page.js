@@ -4,7 +4,7 @@ import Image from "next/image";
 const Header = () => {
   return (
     <>
-      <div className="w-full min-h-screen bg-header bg-cover bg-center bg-no-repeat flex flex-col justify-center p-5 md:items-start md:px-20">
+      <div className="w-full min-h-screen lg:items-center bg-header bg-cover bg-center bg-no-repeat flex flex-col justify-center p-5 md:items-start md:px-20">
         <div className="max-w-2xl">
           <Image
             src="/logo.webp"

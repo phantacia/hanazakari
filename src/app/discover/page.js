@@ -6,7 +6,7 @@ const lato = Lato({ subsets: ["latin"], weight: "900" });
 
 const Discover = () => {
   return (
-    <div className="bg-discover w-full min-h-screen flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
+    <div className="bg-discover w-full flex flex-col items-center justify-center px-5 py-16 md:p-24 md:flex-row md:items-start">
       <div className="flex flex-col mb-8 md:mr-16">
         <h2 className={`text-2xl md:text-4xl ${lato.className} mb-10`}>
           FROM VISION TO CREATION

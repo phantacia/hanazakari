@@ -6,7 +6,7 @@ const lato = Lato({ subsets: ["latin"], weight: "900" });
 
 const Made = () => {
   return (
-    <div className="bg-made w-full min-h-screen flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
+    <div className="bg-made w-full justify-center flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
       <Image
         src="/made.webp"
         alt="Excited Girls in a party"

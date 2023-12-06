@@ -7,14 +7,14 @@ const lato = Lato({ subsets: ["latin"], weight: "900" });
 
 const Founders = () => {
   return (
-    <div className="bg-founders w-full min-h-screen flex flex-col gap-5 items-center px-5 py-16 md:p-24 md:items-start">
+    <div className="bg-founders w-full justify-center flex flex-col gap-5 items-center px-5 py-16 md:p-24 md:items-start">
       <div className="flex flex-col md:flex-row border-b-2 border-black mb-3 overflow-hidden">
         <Image
           src="/haruka.webp"
           alt="Haruka Shiraishi, co-founder of Hanazakari"
           width={200}
           height={200}
-          className="w-full object-contain mb-8 md:mr-10"
+          className="w-full md:w-1/2 lg:w-fit object-contain mb-8 md:mr-10"
         />
         <div className="flex flex-col">
           <h3 className={`text-2xl md:text-xl ${lato.className} mb-10`}>
@@ -46,7 +46,7 @@ const Founders = () => {
           alt="Shizuku Asahina, co-founder of Hanazakari"
           width={200}
           height={200}
-          className="w-full object-contain mb-8 md:mr-10"
+          className="w-full md:w-1/2 lg:w-fit object-contain mb-8 md:mr-10"
         />
         <div className="flex flex-col">
           <h3 className={`text-2xl md:text-xl ${lato.className} mb-10`}>

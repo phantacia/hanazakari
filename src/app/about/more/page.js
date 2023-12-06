@@ -17,7 +17,7 @@ export const metadata = {
 const More = () => {
   return (
     <>
-      <div className="bg-about w-full min-h-screen flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
+      <div className="bg-about w-full justify-center flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
         <div className="flex flex-col md:mr-10 gap-5">
           <h2 className={`text-2xl md:text-4xl ${lato.className}`}>
             WELCOME TO HANAZAKARI

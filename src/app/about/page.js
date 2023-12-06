@@ -7,7 +7,7 @@ const lato = Lato({ subsets: ["latin"], weight: "900" });
 
 const About = () => {
   return (
-    <div className="bg-about w-full min-h-screen flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
+    <div className="bg-about w-full justify-center flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
       <div className="flex flex-col mb-8 md:mr-10">
         <h2 className={`text-2xl md:text-4xl ${lato.className} mb-10`}>
           OUR STORY

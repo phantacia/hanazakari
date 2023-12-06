@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Testimonials = () => {
   return (
-    <div className="bg-testimonials w-full min-h-screen flex flex-col md:flex-row items-center gap-8 px-5 py-16 md:p-24">
+    <div className="bg-testimonials w-full justify-center flex flex-col md:flex-row items-center gap-8 px-5 py-16 md:p-24">
       <div className="flex flex-col items-center gap-5">
         <p className="text-md text-center italic">
           &ldquo;Hanazakari&apos;s sparkling sake is a sensory masterpiece. The

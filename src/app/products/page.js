@@ -17,7 +17,7 @@ export const metadata = {
 const Products = () => {
   return (
     <>
-      <div className="bg-products w-full min-h-screen flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
+      <div className="bg-products w-full justify-center flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
         <div className="flex flex-col md:mr-10 gap-5">
           <h2 className={`text-2xl md:text-4xl ${lato.className}`}>
             Discover Our Exquisite Offerings
@@ -118,9 +118,9 @@ const Products = () => {
           </Button>
         </div>
       </div>
-      <div className="bg-discover w-full flex flex-col gap-12 items-start md:px-24 p-11">
+      <div className="bg-discover w-full flex flex-col gap-12 items-center md:px-24 p-11">
         <h3 className={`text-xl md:text-2xl ${lato.className}`}>Reviews</h3>
-        <div className="flex flex-wrap items-center gap-8 text-center italic">
+        <div className="flex flex-wrap items-center justify-center gap-8 text-center italic">
           <p>
             &ldquo;Hanazakari&apos;s Hanami is a true masterpiece. The sakura
             and green tea infusion takes me on a journey through the cherry

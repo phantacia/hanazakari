@@ -6,7 +6,7 @@ const lato = Lato({ subsets: ["latin"], weight: "900" });
 
 const Hanami = () => {
   return (
-    <div className="bg-hanami w-full min-h-screen flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
+    <div className="bg-hanami w-full justify-center flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
       <div className="flex flex-col mb-8 md:mr-64">
         <h2 className={`text-2xl md:text-4xl ${lato.className} mb-10`}>
           HANAMI
@@ -29,9 +29,9 @@ const Hanami = () => {
       <Image
         src="/hanami.webp"
         alt="Hanami Sparkling Sake"
-        width={350}
-        height={350}
-        className="w-full"
+        width={200}
+        height={200}
+        className="w-full md:w-1/2 lg:w-1/3"
       />
     </div>
   );

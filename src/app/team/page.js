@@ -41,7 +41,7 @@ export default function Team() {
   }, []);
 
   return (
-    <div className="bg-team w-full min-h-screen flex flex-col items-center justify-center gap-10 px-5 py-16 md:p-24 md:items-center md:justify-center">
+    <div className="bg-team w-full flex flex-col items-center justify-center gap-10 px-5 py-16 md:p-24 md:items-center md:justify-center">
       <div className="text-center">
         <h2 className={`text-2xl md:text-4xl ${lato.className} mb-10`}>
           MEET OUR TEAM
