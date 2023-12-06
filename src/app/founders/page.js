@@ -12,9 +12,9 @@ const Founders = () => {
         <Image
           src="/haruka.webp"
           alt="Haruka Shiraishi, co-founder of Hanazakari"
-          width={500}
-          height={500}
-          className="w-full md:w-1/4 mb-8 md:mr-10"
+          width={200}
+          height={200}
+          className="w-full md:w-fit object-contain mb-8 md:mr-10"
         />
         <div className="flex flex-col">
           <h3 className={`text-2xl md:text-xl ${lato.className} mb-10`}>
@@ -44,9 +44,9 @@ const Founders = () => {
         <Image
           src="/shizuku.webp"
           alt="Shizuku Asahina, co-founder of Hanazakari"
-          width={500}
-          height={500}
-          className="w-full md:w-1/4 mb-8 md:mr-10"
+          width={200}
+          height={200}
+          className="w-full md:w-fit object-contain mb-8 md:mr-10"
         />
         <div className="flex flex-col">
           <h3 className={`text-2xl md:text-xl ${lato.className} mb-10`}>
