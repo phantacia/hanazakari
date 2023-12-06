@@ -70,10 +70,10 @@ const Stockists = () => {
       <p className="mt-10 text-center">
         Please note that availability may vary, and it&apos;s always a good idea
         to check with the stores directly for the latest offerings. If
-        you&apos;re a store interested in carrying Hanazakari, feel free to
+        you&apos;re a store interested in carrying Hanazakari, feel free to{" "}
         <Link href="/contact" className="underline">
           contact us
-        </Link>
+        </Link>{" "}
         for wholesale inquiries.
       </p>
     </div>
