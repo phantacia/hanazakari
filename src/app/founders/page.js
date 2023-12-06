@@ -28,9 +28,11 @@ const Founders = () => {
             that adorned her hometown every spring, she developed a deep
             appreciation for the ephemeral beauty of nature. Haruka pursued her
             passion for visual arts, earning acclaim for her avant-garde
-            creations that seamlessly melded tradition with modernity. Several
-            of her works, a testament to her innovative approach, have found a
-            permanent place in prestigious art galleries across Japan.
+            creations that seamlessly melded tradition with modernity.
+            <br />
+            <br />
+            Several of her works, a testament to her innovative approach, have
+            found a permanent place in prestigious art galleries across Japan.
             Haruka&apos;s keen eye for detail and her unwavering commitment to
             pushing artistic boundaries are mirrored in every bubble of
             Hanazakari, as she continues to redefine the artistry of flavor.
@@ -60,13 +62,15 @@ const Founders = () => {
             certification. With an unwavering dedication to mastering the
             alchemy of flavors, Shizuku became renowned for her innovative
             culinary creations that harmoniously blend tradition and modern
-            gastronomy. Her expertise as a mixologist adds an extra layer of
-            sophistication to Hanazakari, as she orchestrates the delicate dance
-            between sakura, ajisai, green tea, and the effervescence of sake.
-            Shizuku&apos;s culinary journey has become an integral part of the
-            Hanazakari story, transforming each bottle into a culinary
-            masterpiece that tantalizes the senses and elevates the art of
-            celebration.
+            gastronomy.
+            <br />
+            <br />
+            Her expertise as a mixologist adds an extra layer of sophistication
+            to Hanazakari, as she orchestrates the delicate dance between the
+            flowers, green tea, and the effervescence of sake. Shizuku&apos;s
+            culinary journey has become an integral part of the Hanazakari
+            story, transforming each bottle into a culinary masterpiece that
+            tantalizes the senses and elevates the art of celebration.
           </p>
           <Button href="/team">Meet the rest of Our Team</Button>
         </div>

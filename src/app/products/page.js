@@ -143,8 +143,7 @@ const Products = () => {
         <p className={`text-xl text-center ${lato.className}`}>
           Join our satisfied customers in raising a glass to tradition,
           innovation, and the extraordinary flavors of Hanazakari. Our sparkling
-          sake creations are available for purchase online and through select
-          stockists across Japan.
+          sake creations are available through select stockists across Japan.
         </p>
       </div>
     </>

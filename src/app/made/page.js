@@ -23,15 +23,18 @@ const Made = () => {
           introduces a contemporary take on sake-making. During the late autumn
           to winter brewing season, echoing the rhythm of the four seasons, our
           process harmonizes age-old methods with modern techniques, embracing
-          the essence of time. Employing multiple parallel fermentation, our
-          approach, influenced by factors such as water hardness, rice variety,
-          milling rate, koji, and yeast, infuses our sake with a nuanced flavor
-          profile. Delicately combining Japanese green tea sourced from Mount
-          Fuji&apos;s foothills with enchanting Hydrangea flowers for Matsuri
-          and delicate sakura blossoms from Kyoto&apos;s cherry orchards for
-          Hanami, we craft our unique beverages. The winter brewing phase
-          witnesses the meticulous fusion of these elements, ensuring a
-          low-alcohol sparkling beverage that transcends expectations.
+          the essence of time.
+          <br />
+          <br />
+          Employing multiple parallel fermentation, our approach, influenced by
+          factors such as water hardness, rice variety, milling rate, koji, and
+          yeast, infuses our sake with a nuanced flavor profile. Delicately
+          combining Japanese green tea sourced from Mount Fuji&apos;s foothills
+          with enchanting Hydrangea flowers for Matsuri and delicate sakura
+          blossoms from Kyoto&apos;s cherry orchards for Hanami, we craft our
+          unique beverages. The winter brewing phase witnesses the meticulous
+          fusion of these elements, ensuring a low-alcohol sparkling beverage
+          that transcends expectations.
           <br />
           <br />
           Hanazakari&apos;s commitment to this intricate process results in

@@ -12,6 +12,7 @@ Hanazakari is a brand that blends tradition and innovation to bring a unique spa
 - **About Us Page:** Learn about the inspiration behind Hanazakari and the founders crafting the delightful beverages.
 - **Stockists Locator:** Discover the locations where you can find Hanazakari in stores.
 - **Team Page:** A hub for showcasing the company's team members, their expertise, and their contact information. Employee data is dynamically fetched from [randomuser.me](https://randomuser.me/).
+- **Contact Page:** Inquire about becoming a stockist through a contact form built with Formik and validated by Yup. Form submissions are logged to the console for this fictional brand.
 
 ## Mobile Navigation
 
@@ -29,7 +30,7 @@ This website draws design inspiration from [Jus Jus](https://jusjus.saladforpres
 
 ## Getting Started
 
-To view the website, simply go to [website link]. Please note that this project is purely for personal purposes as part of a course assignment and has no commercial intentions. Feel free to explore, and if you have any questions, reach out to me directly.
+To view the website, simply go to [Hanazakari](https://hanazakari.vercel.app/). Please note that this project is purely for personal purposes as part of a course assignment and has no commercial intentions. Feel free to explore, and if you have any questions, reach out to me directly.
 
 ## Technologies Used
 
