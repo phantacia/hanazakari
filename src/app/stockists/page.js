@@ -21,10 +21,9 @@ const Stockists = () => {
           STOCKISTS
         </h2>
         <p className="text-base md:text-lg">
-          Hanazakari is primarily available directly to our cherished consumers,
-          can also be found at some of our favorite sake shops and minimarkets
-          across Japan. Explore the list below to discover the nearest stores
-          categorized by their respective prefectures or areas:
+          Hanazakari can be found at some of our favorite sake shops and
+          minimarkets across Japan. Explore the list below to discover the
+          nearest stores categorized by their respective prefectures or areas:
         </p>
       </div>
       <div
@@ -70,12 +69,11 @@ const Stockists = () => {
       </div>
       <p className="mt-10 text-center">
         Please note that availability may vary, and it&apos;s always a good idea
-        to check with the stores directly or visit our online shop for the
-        latest offerings. If you&apos;re a store interested in carrying
-        Hanazakari, feel free to{" "}
+        to check with the stores directly for the latest offerings. If
+        you&apos;re a store interested in carrying Hanazakari, feel free to
         <Link href="/contact" className="underline">
           contact us
-        </Link>{" "}
+        </Link>
         for wholesale inquiries.
       </p>
     </div>
