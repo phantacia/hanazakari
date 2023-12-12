@@ -4,8 +4,8 @@ import Testimonials from "./testimonials/page";
 import Hanami from "./hanami/page";
 import Matsuri from "./matsuri/page";
 import Made from "./made/page";
-import About from "./about/page";
 import Founders from "./founders/page";
+import OurStory from "./ourstory/page";
 
 export default function Home() {
   return (
@@ -22,8 +22,8 @@ export default function Home() {
       <section id="made">
         <Made />
       </section>
-      <section id="about">
-        <About />
+      <section id="ourstory">
+        <OurStory />
       </section>
       <Founders />
     </main>
