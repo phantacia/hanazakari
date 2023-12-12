@@ -19,7 +19,7 @@ const Products = () => {
     <>
       <div className="bg-products w-full justify-center flex flex-col items-center px-5 py-16 md:p-24 md:flex-row md:items-start">
         <div className="flex flex-col md:mr-10 gap-5">
-          <h2 className={`text-2xl md:text-4xl ${lato.className}`}>
+          <h2 className={`uppercase text-2xl md:text-4xl ${lato.className}`}>
             Discover Our Exquisite Offerings
           </h2>
           <p className="text-base md:text-lg">
