@@ -72,7 +72,7 @@ const Founders = () => {
             story, transforming each bottle into a culinary masterpiece that
             tantalizes the senses and elevates the art of celebration.
           </p>
-          <Button href="/team">Meet the rest of Our Team</Button>
+          <Button href="/teams">Meet the rest of Our Team</Button>
         </div>
       </div>
     </div>
